@@ -1,0 +1,8 @@
+//understanding pointer(a stores with null pointer)
+char a[]="Programming 2020";
+printf("%s",a+a[3]-a[5]);
+// op- mming 2020
+
+//understanding pointer(a stores without null pointer)
+char a[]={'a','b','c','d'};
+printf("%s",a+1);
